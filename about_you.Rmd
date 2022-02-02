@@ -1,6 +1,6 @@
 ---
 title: "First Knit"
-author: "Your Name"
+author: "Marena Omar"
 output: 
   html_document:
     number_sections: true
@@ -16,7 +16,8 @@ Here are just a few questions so I can get to know you and so you can get practi
 ## A short history of you.  
 Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
   
-### my answer     
+### my answer
+I attended high school at Quartz Hill High School. Yes, I graduated from high school. English is more devoted to reading and writing, whereas math is more devoted to problem solving. Therefore, I tend to find English easier than Math. I did best in english class.
   
 
      
@@ -25,7 +26,8 @@ Where did you attend High School, and did you graduate? Compare english class to
 ## Your computer and your and its capability?  
  For this class  you need a computer you can use at home.  So, what kind is it (windows, Apple, Linux)?  On a scale of 1 to 10, where 1 is a total dummy (doesn't know a mouse from a keyboard) and 10 is a complete geek (knows computer stuff in and out) How do you rate yourself?  You also need to have have internet access. How is your connection to the internet where you live?
 
-### my answer   
+### my answer
+I have a windows computer that I can use at home. I would rate myself around a 6 out of 10 in this aspect. I know enough about computers to complete my assignments, although, I do not consider myself a geek about it since I do not seem to know much of the complicated stuff. I have internet access at home and I'd say that my internet connection is quite sufficient.
   
    
 
@@ -33,7 +35,7 @@ Where did you attend High School, and did you graduate? Compare english class to
 What name do you prefer to be called by your classmates and instructor, if your buddys call you something but you want people in the class to call you something else - what would that be? 
 
 ### my answer     
-  
+I do not prefer another name other than my first name. Therefore, I prefer to just be called Marena.
    
  
 
@@ -43,7 +45,8 @@ What name do you prefer to be called by your classmates and instructor, if your 
 ## Aspirations?   
 What do you want to achieve in life?  What college subject do you think would be of the greatest interest to you? What degree or certificate are you trying to achieve?
 
-### my answer     
+### my answer
+I want to be successful in life. After gradating from AVC, I plan to attend a 4-year institution and beyond that, I plan to attend dental school and work in the dental field. The college subject I think would be of greatest interest to me is biology. I am trying to earn my associate's degree at AVC. Then, I plan to earn my bachelor's degree after transferring to a 4 year institution. Then, I plan to earn a Master's degree after attending dental school.
   
    
  
@@ -54,7 +57,8 @@ What do you want to achieve in life?  What college subject do you think would be
 ## Past adventures?  
 Have you ever gone to foreign countries, if so which ones, if not Where might you go in the future?  Have you ever been in the military, if so which branch, if not which branch would you choose if you got drafted, and why?
 
-### my answer     
+### my answer 
+Yes, I have gone to a foreign country. I have traveled to my hometown, Israel. I have never been in the military. Although, if I were to join the military, I would join the Air Force because I find it go be the most interesting since they use airplanes and fly in the air.
   
    
   
@@ -68,7 +72,7 @@ What grade do you need to attain in stats to not upset your future plans, What i
  
 
 ### my answer     
-  
+I have not taken a statistics class before. I did know this fact about both Math 115 and 116. I am taking this class in order to transfer to a 4 year institution since most schools require I take this course for my major prior to transferring. The grade I need to attain in stats is an "A" in order to not upset my future plans of tranaferring to a 4-year institution, then dental school, then hopefully getting a job in the dental field.
    
  
 
